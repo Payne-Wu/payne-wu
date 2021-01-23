@@ -9,4 +9,4 @@
 
 个人简介：爬虫工程师，曾独自基于Scrapy+Redis+MySQL+Docker搭建过日入过亿（数据）采集系统
 
-<img src="https://tva1.sinaimg.cn/large/008eGmZEgy1gmjvtjiqtdj31c20mggp8.jpg"/> 
+<img src="img1.png"/>
