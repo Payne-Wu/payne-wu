@@ -8,5 +8,3 @@
 - 常用编程语言：Python、Golang、JavaScript、Java
 
 个人简介：爬虫工程师，曾独自搭建过日入过亿（数据）采集系统。Js逆向，爬虫风控
-
-<img src="img1.png"/>
