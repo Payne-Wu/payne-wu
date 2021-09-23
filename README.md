@@ -1,6 +1,14 @@
 ## 关于我
 
+
+<p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=payne-wu&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
+</p>
+
+
 吴志鹏｜Payne，数据工程师
+
 
 - email: wuzhipeng1289690157@gmail.com
 - 个人网站：https://paynewu.com/
