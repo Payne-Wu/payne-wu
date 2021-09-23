@@ -14,6 +14,6 @@
 - 公众号：积跬Coder
 
 <p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=payne-wu&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=radical">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=payne-wu&show_icons=true&theme=radical">
 </p>
