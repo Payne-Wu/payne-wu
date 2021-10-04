@@ -2,7 +2,7 @@
 
 吴志鹏｜Payne，数据工程师
 
-- email: wuzhipeng1289690157@gmail.com
+- E-mail: wuzhipeng1289690157@gmail.com
 - 个人网站：https://paynewu.com/
 - 编程语言：
   - [x] Python
