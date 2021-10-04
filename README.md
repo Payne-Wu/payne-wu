@@ -4,7 +4,6 @@
 
 - email: wuzhipeng1289690157@gmail.com
 - 个人网站：https://paynewu.com/
-- WeChat：chenxi-0719-chenxi(加好友请标明来意)
 - 编程语言：
   - [x] Python
   - [x] Golang
