@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning **Go、Dokcer、Kubernetes、Service Mesh、ML**
 - 🌲 Your can reach me，This is my contact information
-  - 📧 E-mail wuzhipeng1289690157@gmail.com
-  - ⚠️ WeChat: Chenxi-0719-Chenxi
-  - 💻 MP: 积跬Coder
+  - 📧  E-mail wuzhipeng1289690157@gmail.com
+  - ⚠️  WeChat: Chenxi-0719-Chenxi
+  - 💻  MP: 积跬Coder
  
-- 🤔 Want to see my blog, really? 
-  - 📖 https://paynewu.com/
+- 🤔  Want to see my blog, really? 
+  - 📖  https://paynewu.com/
 
 
 <h3> Technology stack </h3>
