@@ -9,7 +9,7 @@
   - 💻 MP: 积跬Coder
  
 - 🤔 Want to see my blog, really? 
-  - https://paynewu.com/
+  - 📖 https://paynewu.com/
 
 
 <h3> Technology stack </h3>
