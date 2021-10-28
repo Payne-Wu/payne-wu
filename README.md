@@ -12,9 +12,6 @@
 
 - 公众号：积跬Coder
 
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=radical">
-</p>
 <h3> Technology stack </h3>
 <div>
     <div>
@@ -60,3 +57,10 @@
         </a>
     </div>
 </div>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=payne-wu" alt="payne-wu" /></a> 
+</p>
+<p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=radical">
+</p>
