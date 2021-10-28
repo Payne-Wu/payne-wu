@@ -1,14 +1,14 @@
-## 关于我
+<h1 align="center">Hi 👋, I'm Payne Wu</h1>
 
-吴志鹏｜Payne，数据工程师
+<h3 align="center">A passionate Data Engineer from ShangHai, Chine 😁</h3>
 
-- E-mail: wuzhipeng1289690157@gmail.com
-- 个人网站：https://paynewu.com/
-- 编程语言：
-  - [x] Python
-  - [x] Golang
-  - [ ] Java
-  - [ ] Javascript
+- 🌱 I’m currently learning **Go、Dokcer、Kubernetes、Service Mesh、ML**
+- 🌲 Your can reach me，This is my contact information
+  - 📧:E-mail wuzhipeng1289690157@gmail.com
+  -  ⚠️ WeChat: Chenxi-0719-Chenxi
+ 
+- 🤔Want to see my blog, really? 
+  - https://paynewu.com/
 
 - 公众号：积跬Coder
 
