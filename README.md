@@ -13,7 +13,7 @@
 
 
 <h3> Technology stack </h3>
-<div align="center">
+<div align="left">
     <div>
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -58,11 +58,11 @@
     </div>
 </div>
 
-
-<p align="center">
+<p align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=radical">
 </p>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=payne-wu" alt="payne-wu"/></a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=payne-wu"/>
+  </a> 
 </p>
