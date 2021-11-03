@@ -33,11 +33,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                  alt="mysql" width="120" height="90"/>
         </a>
-        <a href="https://www.mongodb.com/">
+        <a href="https://www.mongodb.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                  alt="mongodb" width="120" height="90"/>
         </a>
-        <a href="https://redis.io/">
+        <a href="https://redis.io/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
                  alt="redis" width="120" height="90"/>
         </a>
