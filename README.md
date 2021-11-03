@@ -59,12 +59,12 @@
 </div>
 
 
-<p align="left">
+<p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=radical">
 </p>
 
-<p> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=payne-wu&margin-w=21&margin-h=9"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=payne-wu&row=1&column=7&margin-w=21&margin-h=9"/>
   </a>
 </p>
