@@ -23,9 +23,9 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
                  alt="python" width="120" height="90"/>
         </a>
-        <a href="https://golang.org" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-                alt="go" width="120" height="90"/>
+        <a href="https://golang.google.cn/" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+               alt="go" width="120" height="90"/>
         </a>
     </div>
     <div>
