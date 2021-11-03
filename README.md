@@ -12,7 +12,7 @@
   - 📖  https://paynewu.com/
 
 
-<h2 align="center"> Technology stack </h2>
+<h2 align="center"> Technology stack</h2>
 <div align="center">
     <div>
         <a href="https://git-scm.com/" target="_blank">
