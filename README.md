@@ -12,8 +12,8 @@
   - 📖  https://paynewu.com/
 
 
-<h3> Technology stack </h3>
-<div align="left">
+<h2 align="center"> Technology stack </h2>
+<div align="center">
     <div>
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
