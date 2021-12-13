@@ -12,7 +12,7 @@
     - 📖  https://paynewu.com/
 
 <h2 align="center">My Technology stack</h2>
-<center>
+<div align="center">
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
                  alt="git" width="120" height="90"/>
@@ -81,7 +81,7 @@
                  alt="kubernetes" width="120" height="90"/>
         </a>
     </div>
-</center>
+</div>
 
 
 
