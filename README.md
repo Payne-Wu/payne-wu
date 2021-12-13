@@ -4,21 +4,34 @@
 
 - 🌱 I’m currently learning **Go、Dokcer、Kubernetes、Service Mesh、ML**
 - 🌲 Your can reach me，This is my contact information
-  - 📧  E-mail wuzhipeng1289690157@gmail.com
-  - ⚠️  WeChat: Chenxi-0719-Chenxi
-  - 💻  MP: 积跬Coder
- 
-- 🤔  Want to see my blog, really? 
-  - 📖  https://paynewu.com/
+    - 📧 E-mail wuzhipeng1289690157@gmail.com
+    - ⚠️ WeChat: Chenxi-0719-Chenxi
+    - 💻 MP: 积跬Coder
 
+- 🤔 Want to see my blog, really?
+    - 📖  https://paynewu.com/
 
 <h2 align="center">My Technology stack</h2>
-<div align="center">
-    <div>
+<center>
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-                 alt="docker" width="120" height="90"/>
+                 alt="git" width="120" height="90"/>
         </a>
+    <div>
+        <a href="https://www.vim.org/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg"
+                 alt="vim" width="120" height="90"/>
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
+               alt="visualstudioCode" width="120" height="90"/>
+        </a>
+        <a href="https://www.jetbrains.com/" target="_blank"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
+               alt="jetbrains" width="120" height="90"/>
+        </a>
+    </div>
+    <div>
         <a href="https://www.python.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
                  alt="python" width="120" height="90"/>
@@ -26,6 +39,18 @@
         <a href="https://golang.google.cn/" target="_blank"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
                alt="go" width="120" height="90"/>
+        </a>
+        <a href="https://java.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+                 alt="java" width="120" height="90"/>
+        </a>
+        <a href="https://www.javascript.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+                 alt="javascript" width="120" height="90"/>
+        </a>
+        <a href="https://www.php.net/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
+                 alt="php" width="120" height="90"/>
         </a>
     </div>
     <div>
@@ -56,7 +81,8 @@
                  alt="kubernetes" width="120" height="90"/>
         </a>
     </div>
-</div>
+</center>
+
 
 
 <p align="center">
