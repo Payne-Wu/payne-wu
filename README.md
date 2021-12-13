@@ -19,7 +19,7 @@
         </a>
     <div>
         <a href="https://www.vim.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg"
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
                  alt="vim" width="120" height="90"/>
         </a>
         <a href="https://code.visualstudio.com/" target="_blank"> 
