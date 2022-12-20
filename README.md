@@ -8,8 +8,7 @@
     - ⚠️ WeChat: Chenxi-0719-Chenxi
     - 💻 MP: 积跬Coder
 
-- 🤔 Want to see my blog, really?
-    - 📖  https://paynewu.com/
+- 🤔 Want to see my blog, really? [📖](https://paynewu.com/) 
 
 <h2 align="center">My Technology stack</h2>
 <div align="center">
