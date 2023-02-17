@@ -84,9 +84,9 @@
 
 
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=radical">
-</p>
+| <a href="https://github.com/payne-wu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=payne-wu&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=html" alt="payne-wu" /></a> | <a href="https://github.com/payne-wu"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=gruvbox&locale=en" alt="payne-wu" /></a> |
+| ------------- | ------------- |
+
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
