@@ -2,15 +2,13 @@
 
 <h3 align="center">A passionate Data Engineer from HangZhou, Chine 😁</h3>
 
-- 🌱 I’m currently learning **Go、Dokcer、Kubernetes、Service Mesh、ML**
 - 🌲 Your can reach me，This is my contact information
-    - 📧 E-mail wuzhipeng1289690157@gmail.com
-    - ⚠️ WeChat: Chenxi-0719-Chenxi
-    - 💻 MP: 积跬Coder
+- 📧 E-mail wuzhipeng1289690157@gmail.com
+- ⚠️ WeChat: chenxi-0719-chenxi
+- 💻 MP: 积跬Coder
+- 🤔 Want to see my blog, really? Please click the book[👉📖👈](https://paynewu.com/)
 
-- 🤔 Want to see my blog, really? Please click[👉📖👈](https://paynewu.com/) 
-
-<h2 align="center">My Technology stack</h2>
+<h2 align="center">My Technology Stack</h2>
 <div align="center">
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -21,11 +19,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
                  alt="vim" width="120" height="90"/>
         </a>
-        <a href="https://code.visualstudio.com/" target="_blank"> 
+        <a href="https://code.visualstudio.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
                alt="visualstudioCode" width="120" height="90"/>
         </a>
-        <a href="https://www.jetbrains.com/" target="_blank"> 
+        <a href="https://www.jetbrains.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"
                alt="jetbrains" width="120" height="90"/>
         </a>
@@ -35,7 +33,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
                  alt="python" width="120" height="90"/>
         </a>
-        <a href="https://golang.google.cn/" target="_blank"> 
+        <a href="https://golang.google.cn/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
                alt="go" width="120" height="90"/>
         </a>
@@ -82,14 +80,11 @@
     </div>
 </div>
 
-
-
 | <a href="https://github.com/payne-wu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=payne-wu&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=html" alt="payne-wu" /></a> | <a href="https://github.com/payne-wu"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=gruvbox&locale=en" alt="payne-wu" /></a> |
 | ------------- | ------------- |
 
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center">
+  <a href="https://github.com/payne-wu">
     <img src="https://github-profile-trophy.vercel.app/?username=payne-wu&row=1&column=7&margin-w=21&margin-h=9"/>
   </a>
 </p>
