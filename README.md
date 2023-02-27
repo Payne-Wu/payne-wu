@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Payne Wu</h1>
 
-<h3 align="center">A passionate Data Engineer from ShangHai, Chine 😁</h3>
+<h3 align="center">A passionate Data Engineer from HangZhou, Chine 😁</h3>
 
 - 🌱 I’m currently learning **Go、Dokcer、Kubernetes、Service Mesh、ML**
 - 🌲 Your can reach me，This is my contact information
@@ -8,7 +8,7 @@
     - ⚠️ WeChat: Chenxi-0719-Chenxi
     - 💻 MP: 积跬Coder
 
-- 🤔 Want to see my blog, really? [📖](https://paynewu.com/) 
+- 🤔 Want to see my blog, really? Please click[👉📖👈](https://paynewu.com/) 
 
 <h2 align="center">My Technology stack</h2>
 <div align="center">
