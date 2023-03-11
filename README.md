@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Engineer from HangZhou, Chine 😁</h3>
 
 - 🌲 Your can reach me，This is my contact information
-- 📧 E-mail wuzhipeng1289690157@gmail.com
+- 📧 E-mail paynewu0719@gmail.com
 - ⚠️ WeChat: chenxi-0719-chenxi
 - 💻 MP: 积跬Coder
 - 🤔 Want to see my blog, really? Please click the book[👉📖👈](https://paynewu.com/)
