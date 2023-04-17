@@ -80,11 +80,11 @@
     </div>
 </div>
 
-| <a href="https://github.com/payne-wu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=payne-wu&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=html" alt="payne-wu" /></a> | <a href="https://github.com/payne-wu"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=payne-wu&show_icons=true&theme=gruvbox&locale=en" alt="payne-wu" /></a> |
+| <a href="https://github.com/0x2cf"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x2cf&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=html" alt="0x2cf" /></a> | <a href="https://github.com/0x2cf"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x2cf&show_icons=true&theme=gruvbox&locale=en" alt="0x2cf" /></a> |
 | ------------- | ------------- |
 
 <p align="center">
-  <a href="https://github.com/payne-wu">
-    <img src="https://github-profile-trophy.vercel.app/?username=payne-wu&row=1&column=7&margin-w=21&margin-h=9"/>
+  <a href="https://github.com/0x2cf">
+    <img src="https://github-profile-trophy.vercel.app/?username=0x2cf&row=1&column=7&margin-w=21&margin-h=9"/>
   </a>
 </p>
